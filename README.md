@@ -1,4 +1,4 @@
-### Hi there 👋
+### 성장하는 개발자 시민주입니다 👋
 
 <!--
 **tlalswn23/tlalswn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
